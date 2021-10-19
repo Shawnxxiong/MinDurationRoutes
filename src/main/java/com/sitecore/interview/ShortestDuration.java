@@ -4,11 +4,8 @@ import com.sitecore.interview.algorithms.FindMinDuration;
 import com.sitecore.interview.models.Airport;
 import com.sitecore.interview.models.Graph;
 import com.sitecore.interview.models.Itinerary;
-import com.sitecore.interview.models.Route;
 import com.sitecore.interview.utils.GraphLoaderStrategy;
 
-import java.util.Set;
-import java.util.HashSet;
 import java.util.Optional;
 import java.util.List;
 

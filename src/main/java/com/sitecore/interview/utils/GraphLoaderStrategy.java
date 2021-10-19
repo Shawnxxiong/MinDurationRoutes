@@ -1,7 +1,5 @@
 package com.sitecore.interview.utils;
 
-import com.sitecore.interview.models.Graph;
-
 public class GraphLoaderStrategy {
 
     private String fileLoc;
