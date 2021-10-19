@@ -71,7 +71,9 @@ The delimiter of the csv file has to be comma `,`.
 ## Running in local
 
 ### Prerequisites
+
 jdk 11
+
 Apache Maven (I'm using version 3.6.3), but any version above 3.6.0 should be ok. For example 3.8.3 is being used when building docker image.
 
 ### Run
