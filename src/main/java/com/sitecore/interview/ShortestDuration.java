@@ -16,8 +16,8 @@ public class ShortestDuration {
 
     public static void main(String[] args) throws Exception {
 
-        String start = null;
-        String destination = null;
+        String start;
+        String destination;
         String fileLoc = null;
 
         if (args.length != 1 && args.length != 2) {
