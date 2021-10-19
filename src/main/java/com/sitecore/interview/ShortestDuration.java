@@ -31,8 +31,6 @@ public class ShortestDuration {
             fileLoc = args[1];
         }
 
-        System.out.println("File loc: " + fileLoc);
-
         GraphLoaderStrategy graphLoaderStrategy = new GraphLoaderStrategy(fileLoc);
         Graph graph = graphLoaderStrategy.getGraphLoader().getGraph();
 
